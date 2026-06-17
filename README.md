@@ -58,4 +58,4 @@ Sau đó mở file `notebooks/01_eda.ipynb` và chạy từng cell.
 - **Heatmap** — tương quan thành phố × danh mục
 
 ## 👤 Tác giả
-- GitHub: [@TEN_BAN](https://github.com/TEN_BAN)
+- GitHub: [@data-with-qthanh](https://github.com/data-with-qthanh)
